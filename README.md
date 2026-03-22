@@ -36,3 +36,9 @@ contract SimpleStorage {
         return value;
     }
 }
+scripts/deploy.js
+async function main() {
+  console.log("Deploying contract...");
+}
+
+main();
