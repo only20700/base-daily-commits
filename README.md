@@ -21,3 +21,18 @@ This repository tracks my daily building activity on Base.
 - scripts/ → deploy scripts
 - logs/ → daily logs
 - notes/ → ideas
+contracts/SimpleStorage.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract SimpleStorage {
+    uint256 private value;
+
+    function set(uint256 _value) public {
+        value = _value;
+    }
+
+    function get() public view returns (uint256) {
+        return value;
+    }
+}
