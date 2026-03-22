@@ -42,3 +42,9 @@ async function main() {
 }
 
 main();
+logs/day-01.md
+# Day 01
+
+- Created repository
+- Added simple contract
+- Prepared deploy script
