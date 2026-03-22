@@ -48,3 +48,7 @@ logs/day-01.md
 - Created repository
 - Added simple contract
 - Prepared deploy script
+notes/ideas.md
+- Deploy on Base
+- Add counter contract
+- Add NFT contract
