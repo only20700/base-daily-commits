@@ -5,6 +5,7 @@ Day 2: Testing contracts
 Day 3: Interacting with dApps
 Day 4: Reading docs
 Day 5: Writing notes
+Day 5: publish
 README.md
 # Base Daily Activity
 
